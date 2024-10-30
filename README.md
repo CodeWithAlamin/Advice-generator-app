@@ -9,7 +9,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 <div align="center">
 
 <!-- Live -->
-<a href="https://advice-generator-app-codepapa360.netlify.app/">
+<a href="https://advice-generator-app-alamin.netlify.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/Live%20Demo-blue?style=for-the-badge&logo=live360&labelColor=666666" alt="Live Demo" />
 </a>
 
@@ -39,9 +39,9 @@ This project uses the <a href="https://api.adviceslip.com/">Advice Slip API</a> 
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://advice-generator-app-codepapa360.netlify.app/">
+<a align="center" href="https://advice-generator-app-alamin.netlify.app/">
 
-![Screenshot](./screenshots/Advice-generator-app-screenshot-codepapa360.png)
+![Screenshot](./screenshots/Advice-generator-app-screenshot-CodeWithAlamin.png)
 
 </a>
 
@@ -74,7 +74,7 @@ In the process of developing the Advice Generator App, I expanded my skills and 
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Advice-generator-app.git
+git clone https://github.com/CodeWithAlamin/Advice-generator-app.git
 ```
 
 - Install dependencies:
@@ -99,10 +99,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -116,4 +116,4 @@ Special thanks to Frontend Mentor for providing such an amazing platform to prac
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Advice-generator-app/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Advice-generator-app/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
